@@ -1,0 +1,33 @@
+Q1. How many hours did it take you to complete this assessment?
+
+Please try to keep track of how many hours you have spent working on each individual part of this assessment as best you can – an estimation is fine; we just want a rough idea.
+
+A1. It took me about 6 hours total, roughly 2 hours each question.
+
+Q2. What online resources have you used?
+
+(e.g., My lectures, YouTube, Stack Overflow, etc.)
+
+A2. I used Stack Overflow, Udemy course, and MDN.
+
+Q3. Did you need to ask any of your friends for help in solving the problems?
+
+If yes, please mention the name of the friend. They must be among your classmates.
+
+A3. I did not get help from a fellow classmate.
+
+Q4. Did you need to ask questions to any of your instructors?
+
+If so, how many questions did you ask (or how many help sessions did you require)?
+
+A4. I did not get help from an instructor.
+
+Q5. Rate (subjectively) the difficulty of each question from your own perspective:
+
+Provide your own rating for the difficulty of each problem.
+
+A5. 3.5/5 difficulty. It was rather challenging but nothing that some more practice couldn't fix.
+
+Q6. Do you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one?
+
+A6. Given some time and if I were allowed to use external sources for help I believe I could.
